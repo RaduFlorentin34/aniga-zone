@@ -1,2 +1,2 @@
-# aniga-zone
-Aniga Zone
+# Initial page
+
